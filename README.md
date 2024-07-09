@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Student payment management platform 
 - 📫 How to reach me: jamilaelabbasi@gmail.com
 - 🤝 I’m looking for new professional challenge
-💬 Ask me about all of technologies in Tech stack
+- 💬 Ask me about all of technologies in Tech stack
 
 
 ## 🌐 Socials:
