@@ -1,13 +1,13 @@
 ## Hi there 👋 i'm Jamila EL ABBASI 
-                                            JUNIOR FULLSTACK DEVELOPPER ![image](https://github.com/jamilaELABBASI/jamilaELABBASI/assets/104725014/decb832f-9c9d-4b99-af28-e71ef5c73d31)
-
-
+                                            JUNIOR FULLSTACK DEVELOPPER 
 <!--
 **jamilaELABBASI/jamilaELABBASI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 -->
+
+https://www.dunegestion.com/p1026-developpement-informatique.html
 
 - 🔭 I’m currently working on Student payment management platform 
 - 📫 How to reach me: jamilaelabbasi@gmail.com
