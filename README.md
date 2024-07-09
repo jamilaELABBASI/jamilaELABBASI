@@ -1,4 +1,5 @@
 ## Hi there 👋 i'm Jamila EL ABBASI 
+                                            JUNIOR FULLSTACK DEVELOPPER ![image](https://github.com/jamilaELABBASI/jamilaELABBASI/assets/104725014/decb832f-9c9d-4b99-af28-e71ef5c73d31)
 
 
 <!--
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jamilaelabbasi@gmail.com
 - 🤝 I’m looking for new professional challenge
 - 💬 Ask me about all of technologies in Tech stack
+- 👨‍💻 All of my projects are available at the bottom 
 
 
 ## 🌐 Socials:
