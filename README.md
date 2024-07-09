@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-https://www.dunegestion.com/p1026-developpement-informatique.html
-
+<img src="https://www.dunegestion.com/p1026-developpement-informatique.html"/>
 - 🔭 I’m currently working on Student payment management platform 
 - 📫 How to reach me: jamilaelabbasi@gmail.com
 - 🤝 I’m looking for new professional challenge
