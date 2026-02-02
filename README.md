@@ -10,15 +10,16 @@ Here are some ideas to get you started:
 💡 Master MIAGE graduate, passionate about business applications and ERP solutions.
 - 🔭 Current Focus
 
-🧩 Working on an Odoo module for task management
+__🧩 Working on an Odoo module for task management__
 
 ✅ CRUD operations (Create, Read, Update, Delete)
-
 👤 Task creation & user assignment
-
 ⚙️ Basic workflow logic using Odoo ORM
-
 🎨 Starting UI customization with OWL (Beginner)
+🔒 User access rights & permissions management
+📊 Report generation for task tracking
+🌐 Odoo APIs for data integration with other modules
+📥 Excel export functionality for tasks
 
 - 📫 How to reach me: jamilaelabbasi@gmail.com
 - 🤝 I’m looking for new professional challenge
