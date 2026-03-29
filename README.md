@@ -10,15 +10,17 @@ Here are some ideas to get you started:
 💡 Master MIAGE graduate, passionate about business applications and ERP solutions.
 - 🔭 Current Focus
 
-__🧩 Working on an Odoo module for task management__
+__🧩 Working on an Odoo module for project management__
 
 ✅ CRUD operations (Create, Read, Update, Delete)
+
+📁 Project creation 
 
 👤 Task creation & user assignment
 
 ⚙️ Basic workflow logic using Odoo ORM
 
-🎨 Starting UI customization with OWL (Beginner)
+🎨 Starting UI customization with OWL
 
 🔒 User access rights & permissions management
 
